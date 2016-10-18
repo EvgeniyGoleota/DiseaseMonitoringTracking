@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiseaseMonitoringTracking</string>
+    <string name="title_activity_main">Disease Monitoring Tracking</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_disease_detail">DiseaseDetail</string>
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Extered</string>
+    <string name="unknown_geofence_transition">Unkniwn transition</string>
+</resources>
